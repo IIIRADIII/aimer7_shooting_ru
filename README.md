@@ -1,0 +1,1 @@
+# aimer7_shooting_ru
