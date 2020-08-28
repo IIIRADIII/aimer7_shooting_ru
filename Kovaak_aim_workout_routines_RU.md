@@ -146,6 +146,7 @@
 
 Перед тем, как начинать тренировку, сыграй [#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Cata IC Long Strafes` в течение 5 минут (не двигаясь во время игры) в качестве разминки. Можешь считать себя опытным новичком после 10-15 дне тренировки по следующему плану:
 
+
 Тренировка трекинга:
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Close Long Strafes` **15 min.** версия invincible как альтернатива для более скилловых игроков,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `FuglaaXYLongStrafe` **10 min.** тяжелее попасть по цели, поэтому тренирует точность, также тренирует стрельбу по вертикали,
@@ -153,6 +154,8 @@
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall6targets TE` **10 min.** классика,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy - Strafing - 01` **10 min.** на скорость реакции, эффективен только по движущимся целям,
  - ![8a2be2](https://via.placeholder.com/15/8A2BE2/000000?text=+) :star: `LG Pin Practice 360` **10 min.** может быть чутка сложен
+
+
 Тренировка реакции:
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall6targets` TE **15 min.** классика,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy` - Strafing - 01 **10 min.** на скорость реакции, эффективен только по движущимся целям,
@@ -160,6 +163,8 @@
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Close Long Strafes` **10 min.** версия invincible как альтернатива для более скилловых игроков,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Vertical Long Strafes` **10 min.** идеально для простой тренировки вертикального трекинга,
  - ![8a2be2](https://via.placeholder.com/15/8A2BE2/000000?text=+) :star: `Tile Frenzy - Strafing - 02` **10 min.** версия тренировки выше, но более требовательная к точности.
+
+
 Совмещенные сценарии:
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Close Long Strafes` **10 min.** версия invincible как альтернатива для более скилловых игроков,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall6targets` TE **10 min.** классика,
@@ -233,7 +238,7 @@
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) :star: `1wall5targets pasu` **10 min.** намного лучше чем 1w6t но и намного сложнее,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) :star: `Ground Plaza Easy` **1-2 раза**, чисто по фану,
   
-  
+
 Совмещенная тренировка:
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `RexStrafesCata` (fuglaaXYShortStrafes) **10 min.** один из двух классических сценариев на выбор,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall6Targets TE` (1wall9000targets) **10 min.** НЕ менять позицию мыши после попадания,
