@@ -171,6 +171,7 @@
 ### Для новичков с опытом
 
 Перед началом тренировки данного левела выдели день для игр в сценариях `Cata IC Long Strafes` (также не двигаясь) и `1wall6target TE` . Сравни прогресс по сравнению с предудыщим левелом. Можешь считать себя продвинутым новичком также после 10-15 дней тренировки.
+
 Трекинг:
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Close Long Strafes Invincible` **15 min.** классика,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Thin Aiming Long Invincible` **10 min.** очень хорош для тренировки точности, старайся нацеливаться плавнее,
@@ -178,14 +179,15 @@
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall9000targets` **10 min.** режим на скорость реакции, также улучшает трекинг,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy- Strafing - 02`  **10 min.** более требовательная версия по сравнени с `01`,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) :star: `RexStrafesCata` **10 min.тренирует реакцию на быстрые стрейфы. Бот стреляет в тебя в ответ с отдачей, но на данном этапе не нужно двигаться, можно просто двигаться зажав прямо + вправо на протяжении всей тренировки.
+  
 Скорость реакции:
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall 6targets small` **15 min.** тренирует твою точность,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy - Strafing - 02` **10 min.** на скорость реакции, эффективен только по движущимся целям,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy 180` **15 min.** улучшает флики под широким углом,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Thin Aiming Long Invincible` **10 min.** очень хорош для тренировки точности, старайся нацеливаться плавнее,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Vertical Long Strafes` **10 min.** идеально для простой тренировки вертикального трекинга,
- - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) :start: `Tile Frenzy - Strafing - 03` **10 min.** a yet again more precise version of the 02
-one.
+ - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) :start: `Tile Frenzy - Strafing - 03` **10 min.** еще одна версия, чуть сложнее, чем `02`
+
 Совмещенные сценарии:
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Close Long Strafes Invincible` **10 min.** классика,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall 6targets small` **10 min.** улучшает твою точность,
@@ -209,6 +211,7 @@ one.
 Если полагаться на эту теориб, то фокусировка на модели врага лучше работает в ситуация ближнего боя и против людей с хорошим скиллом уклонения. Фокусировка же на перекрестье лучше подходид для средне-дальних ситуаций, против людей, не умеющих уклоняться, а также увеличивает твою скорость реакции, т.к. ты более четко понимаешь свое расположение и расположение врага в плане дистанции. Поэкспериментируй с этим и поменяй стиль игры, сначала фокусируясь на модели врага, а затем на перекрестье, в завимости от подходящего сценария.
 
 Итак, о тренировке. Можешь считать себя игроком соответствующего левела после 3-5 недель тренировки. На этом этапе можно учавствоваь в еженедельных соревнования в Kovaak, ищи по слову 'week'.
+
 Трекинг:
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `RexStrafesCata` (fuglaaXYShortStrafes) **15 min.** один из двух классических сценариев на выбор,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Close Long Strafes Invincible` (Thin Aiming Long Invincible) **10 min.** советую сыграть в оба, но не в один день,
@@ -217,21 +220,21 @@ one.
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall 6targets small` **10 min.** работа над точностью,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) :star: `Vertical Long Strafes` **10 min.** этот старый добрый сценарий никогда не повредит,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) :star: `Ground Plaza Easy` **1-2 раза**, чисто по фану,
+  
 Скорость реакции:
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall6Targets TE` (1wall9000targets) **15 min.** НЕ менять позицию мыши после попадания,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall 6targets small` (Pokeball Frenzy Auto Small, 1wall2targets small flicks) **10 min.** работа над точностью и скоростью,
  - ![8a2be2](https://via.placeholder.com/15/8A2BE2/000000?text=+) `LG Pin Practice 360` **15 min.** твой первый сценарий на переключение между целями, хороший и простой с уклоном в стрельбу по вертикали,
- - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy 180 Strafing` очень хороший 180◦
-сценарий. Фокусируйся на своих недостатках в плане сорости и точности. Сначала достигаем точности в 85% перед тем как тренировать скорость, максимум в 95%,
+ - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy 180 Strafing` очень хороший 180◦сценарий. Фокусируйся на своих недостатках в плане сорости и точности. Сначала достигаем точности в 85% перед тем как тренировать скорость, максимум в 95%,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `RexStrafesCata` (fuglaaXYShortStrafes) **10 min.** один из двух классических сценариев на выбор,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) :star: `1wall5targets pasu` **10 min.** намного лучше чем 1w6t но и намного сложнее,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) :star: `Ground Plaza Easy` **1-2 раза**, чисто по фану,
+  
 Совмещенная тренировка:
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `RexStrafesCata` (fuglaaXYShortStrafes) **10 min.** один из двух классических сценариев на выбор,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall6Targets TE` (1wall9000targets) **10 min.** НЕ менять позицию мыши после попадания,
  - ![8a2be2](https://via.placeholder.com/15/8A2BE2/000000?text=+) `LG Pin Practice 360` **10 min.** твой первый сценарий на переключение миежду целями, хороший и простой с уклоном в стрельбу по вертикали,
- - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy 180 Strafing` очень хороший 180◦
-сценарий. Фокусируйся на своих недостатках в плане сорости и точности. Сначала достигаем точности в 85% перед тем как тренировать скорость, максимум в 95%,
+ - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy 180 Strafing` очень хороший 180◦ сценарий. Фокусируйся на своих недостатках в плане сорости и точности. Сначала достигаем точности в 85% перед тем как тренировать скорость, максимум в 95%,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Close Long Strafes Invincible` (Thin Aiming Long Invincible) **10 min.** советую сыграть в оба, но не в один день,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall 6targets small` (Pokeball Frenzy Auto Small, 1wall2targets small flicks)**10 min.** работа над точностью,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) :star: `Vertical Long Strafes` **10 min.** этот старый добрый сценарий никогда не повредит,
