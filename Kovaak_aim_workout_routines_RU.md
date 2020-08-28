@@ -127,8 +127,6 @@
 
 
 Как пример, план тренировки может выглядеть следующим образом:
- - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Air (ground plaza, plaza high ground, plaza low ground) **15 min**. good to train vertical
-angles and offers a variety of different dodge patterns at both close and mid range.
- - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Tile Frenzy 180 Strafing 200% **15 min**. 180◦ with moving targets of decent.
-speed,
- - ![8a2be2](https://via.placeholder.com/15/8A2BE2/000000?text=+):star: PatTargetSwitch **10 min**. train your flick to track aiming skills.
+ - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Air` (ground plaza, plaza high ground, plaza low ground) **15 min**. Хорош для тренировки вертикальных углов, а также для тренировки уворота как на средней, так и на близкой дистанции.
+ - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy` 180 Strafing 200% **15 min**. 180◦ по движущимся целям на высокой скорости
+ - ![8a2be2](https://via.placeholder.com/15/8A2BE2/000000?text=+) :star: `PatTargetSwitch` **10 min**. Фликшот по движущимся целям, с тренировкой трекинга.
