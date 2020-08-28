@@ -180,6 +180,7 @@
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy- Strafing - 02`  **10 min.** более требовательная версия по сравнени с `01`,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) :star: `RexStrafesCata` **10 min.тренирует реакцию на быстрые стрейфы. Бот стреляет в тебя в ответ с отдачей, но на данном этапе не нужно двигаться, можно просто двигаться зажав прямо + вправо на протяжении всей тренировки.
   
+
 Скорость реакции:
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall 6targets small` **15 min.** тренирует твою точность,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Tile Frenzy - Strafing - 02` **10 min.** на скорость реакции, эффективен только по движущимся целям,
@@ -187,6 +188,7 @@
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Thin Aiming Long Invincible` **10 min.** очень хорош для тренировки точности, старайся нацеливаться плавнее,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Vertical Long Strafes` **10 min.** идеально для простой тренировки вертикального трекинга,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) :start: `Tile Frenzy - Strafing - 03` **10 min.** еще одна версия, чуть сложнее, чем `02`
+
 
 Совмещенные сценарии:
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Close Long Strafes Invincible` **10 min.** классика,
@@ -221,6 +223,7 @@
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) :star: `Vertical Long Strafes` **10 min.** этот старый добрый сценарий никогда не повредит,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) :star: `Ground Plaza Easy` **1-2 раза**, чисто по фану,
   
+
 Скорость реакции:
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall6Targets TE` (1wall9000targets) **15 min.** НЕ менять позицию мыши после попадания,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `1wall 6targets small` (Pokeball Frenzy Auto Small, 1wall2targets small flicks) **10 min.** работа над точностью и скоростью,
@@ -229,6 +232,7 @@
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `RexStrafesCata` (fuglaaXYShortStrafes) **10 min.** один из двух классических сценариев на выбор,
  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) :star: `1wall5targets pasu` **10 min.** намного лучше чем 1w6t но и намного сложнее,
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) :star: `Ground Plaza Easy` **1-2 раза**, чисто по фану,
+  
   
 Совмещенная тренировка:
  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `RexStrafesCata` (fuglaaXYShortStrafes) **10 min.** один из двух классических сценариев на выбор,
